@@ -1,14 +1,29 @@
-[
-  {
-    "title": "New Test Series Launched!",
-    "message": "SSC CGL 2025 ke liye naye mock tests available hain. Abhi try karo!",
-    "image": "https://raw.githubusercontent.com/HackerGprat/er_appdata/master/notifications/test_series_banner.png",
-    "link": "https://yourapp.com/test-series"
-  },
-  {
-    "title": "PDF Update",
-    "message": "Reasoning chapter 'Blood Relation' ka PDF update ho gaya hai.",
-    "image": "",
-    "link": ""
-  }
-]
+{
+  "math": [
+    {
+      "title": "New Algebra PDF",
+      "message": "Algebra chapter updated with new examples.",
+      "image": "https://yourgithub.com/path/to/image1.png",
+      "link": "https://yourapp.com/algebra",
+      "date": "06 Nov 2025"
+    }
+  ],
+  "english": [
+    {
+      "title": "Vocabulary Booster",
+      "message": "New words added to daily drill.",
+      "image": "",
+      "link": "",
+      "date": "Today Evening"
+    }
+  ],
+  "app": [
+    {
+      "title": "App Updated",
+      "message": "Bug fixes and performance improvements.",
+      "image": "",
+      "link": "",
+      "date": "v2.3.1 Released"
+    }
+  ]
+}
