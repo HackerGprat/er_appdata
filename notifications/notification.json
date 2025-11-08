@@ -12,10 +12,14 @@
   
   "ENGLISH": [
     {
-      "title": "Vocabulary Booster",
-      "message": "New words added to daily drill.",
+      "title": "Watch these 3 videos",
+      "message": "Ye tino video dekhiye, best rahega vocabulary ke liye.",
       "image": "",
-      "link": "",
+      "link_list": [
+        { "name": "Vocabulary Basics", "url": "https://youtube.com/vocab1" },
+        { "name": "Synonyms Mastery", "url": "https://youtube.com/vocab2" },
+        { "name": "Daily Drill", "url": "https://youtube.com/vocab3" }
+      ],
       "date": "Today Evening"
     }
   ],
