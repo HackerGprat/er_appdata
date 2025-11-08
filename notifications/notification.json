@@ -2,11 +2,15 @@
   
   "MATH": [
     {
-      "title": "New Algebra PDF",
-      "message": "Algebra chapter updated with new examples.",
-      "image": "https://yourgithub.com/path/to/image1.png",
-      "link": "https://yourapp.com/algebra",
-      "date": "06 Nov 2025"
+      "title": "Watch these 3 videos",
+      "message": "Ye tino video dekhiye, best rahega vocabulary ke liye.",
+      "image": "",
+      "link_list": [
+        { "name": "Vocabulary Basics", "url": "https://youtube.com/vocab1" },
+        { "name": "Synonyms Mastery", "url": "https://youtube.com/vocab2" },
+        { "name": "Daily Drill", "url": "https://youtube.com/vocab3" }
+      ],
+      "date": "Today Evening"
     }
   ],
   
