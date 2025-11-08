@@ -2,13 +2,12 @@
   
   "MATH": [
     {
-      "title": "Watch these 3 videos",
-      "message": "Ye tino video dekhiye, best rahega vocabulary ke liye.",
+      "title": "roots of quadratic equation",
+      "message": "revision concept wise in fibonacci seires",
       "image": "",
       "link_list": [
-        { "name": "Vocabulary Basics", "url": "https://youtube.com/vocab1" },
-        { "name": "Synonyms Mastery", "url": "https://youtube.com/vocab2" },
-        { "name": "Daily Drill", "url": "https://youtube.com/vocab3" }
+        { "name": "conept 1", "url": "https://youtube.com/vocab2" },
+        { "name": "concept 2", "url": "https://youtube.com/vocab3" }
       ],
       "date": "Today Evening"
     }
