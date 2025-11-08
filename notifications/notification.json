@@ -1,5 +1,6 @@
 {
-  "math": [
+  
+  "MATH": [
     {
       "title": "New Algebra PDF",
       "message": "Algebra chapter updated with new examples.",
@@ -8,7 +9,8 @@
       "date": "06 Nov 2025"
     }
   ],
-  "english": [
+  
+  "ENGLISH": [
     {
       "title": "Vocabulary Booster",
       "message": "New words added to daily drill.",
@@ -17,7 +19,8 @@
       "date": "Today Evening"
     }
   ],
-  "app": [
+
+  "APP": [
     {
       "title": "App Updated",
       "message": "Bug fixes and performance improvements.",
@@ -25,5 +28,16 @@
       "link": "",
       "date": "v2.3.1 Released"
     }
+  ],
+
+  "TEST": [
+    {
+      "title": "TEST / PYQs",
+      "message": "COMMING SOO...",
+      "image": "",
+      "link": "",
+      "date": "08.11.25"
+    }
   ]
+
 }
