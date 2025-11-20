@@ -15,13 +15,13 @@
     "title": "Addition ( + )",
     "concepts": [
       {
-        "title": "Concept:1 Traditional Addition",
+        "title": "Concept-1 - Traditional Addition",
         "youtube": "https://youtube.com/watch?v=abc123",
         "pdf": "https://drive.google.com/file/d/1Y7dClvUoFW4jG_gm9BnbGqkBBfwaYI2K/view?usp=drive_link",
         "test": "https://yourdomain.com/noun1_test.json"
       },
       {
-        "title": "Concept:2 Mental Addition",
+        "title": "Concept-2 - Mental Addition",
         "youtube": "https://youtube.com/watch?v=def456",
         "pdf": "https://yourdomain.com/noun2.pdf",
         "test": "https://yourdomain.com/noun2_test.json"
@@ -33,7 +33,7 @@
     "title": "Substraction ( - )",
     "concepts": [
       {
-        "title": "Concept:1 - Traditional Substraction",
+        "title": "Concept - 1 - Traditional Substraction",
         "youtube": "https://youtube.com/watch?v=abc123",
         "pdf": "https://drive.google.com/file/d/1Y7dClvUoFW4jG_gm9BnbGqkBBfwaYI2K/view?usp=drive_link",
         "test": "https://yourdomain.com/noun1_test.json"
@@ -51,13 +51,13 @@
     "title": "Division ( / )",
     "concepts": [
       {
-        "title": "Concept:1 - Traditional Division",
+        "title": "Concept - 1 - Traditional Division",
         "youtube": "https://youtube.com/watch?v=abc123",
         "pdf": "https://drive.google.com/file/d/1Y7dClvUoFW4jG_gm9BnbGqkBBfwaYI2K/view?usp=drive_link",
         "test": "https://yourdomain.com/noun1_test.json"
       },
       {
-        "title": "Concept:2 Mental Division",
+        "title": "Concept - 2 - Mental Division",
         "youtube": "https://youtube.com/watch?v=def456",
         "pdf": "https://yourdomain.com/noun2.pdf",
         "test": "https://yourdomain.com/noun2_test.json"
@@ -69,13 +69,13 @@
     "title": "Multiplication ( * )",
     "concepts": [
       {
-        "title": "Concept:1 - Traditional Multiplication",
+        "title": "Concept - 1 - Traditional Multiplication",
         "youtube": "https://youtube.com/watch?v=abc123",
         "pdf": "https://drive.google.com/file/d/1Y7dClvUoFW4jG_gm9BnbGqkBBfwaYI2K/view?usp=drive_link",
         "test": "https://yourdomain.com/noun1_test.json"
       },
       {
-        "title": "Concept:2 Mental Multiplication",
+        "title": "Concept - 2 - Mental Multiplication",
         "youtube": "https://youtube.com/watch?v=def456",
         "pdf": "https://yourdomain.com/noun2.pdf",
         "test": "https://yourdomain.com/noun2_test.json"
