@@ -1,10 +1,10 @@
 [
   {
     "chapter_name": "Addition",
-    "url": "https://raw.github.../gkgs/river/learn.json"
+    "url": "https://raw.githubusercontent.com/HackerGprat/er_appdata/refs/heads/master/syllabus/math/addition/learn.json"
   },
   {
     "chapter_name": "Substraction",
-    "url": "https://raw.github.../gkgs/mountain/learn.json"
+    "url": "https://raw.githubusercontent.com/HackerGprat/er_appdata/refs/heads/master/syllabus/math/substraction/learn.json"
   }
 ]
