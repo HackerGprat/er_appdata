@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which noun is a Proper Noun?",
+    "options": ["Boy", "City", "Mumbai", "Team"],
+    "answer_index": 2
+  },
+  {
+    "question": "Plural of 'Child' is?",
+    "options": ["Childs", "Children", "Childrens", "Childes"],
+    "answer_index": 1
+  }
+]
