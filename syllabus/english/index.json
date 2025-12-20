@@ -1,10 +1,10 @@
 [
   {
     "chapter_name": "Noun",
-    "url": "https://raw.githubusercontent.com/HackerGprat/er_appdata/refs/heads/master/syllabus/english/noun/learn.json"
+    "url": "https://raw.githubusercontent.com/HackerGprat/er_appdata/master/syllabus/english/noun/learn.json"
   },
   {
     "chapter_name": "Verb",
-    "url": "https://raw.githubusercontent.com/HackerGprat/er_appdata/refs/heads/master/syllabus/english/verb/learn.json"
+    "url": "https://raw.githubusercontent.com/HackerGprat/er_appdata/master/syllabus/english/verb/learn.json"
   }
 ]
