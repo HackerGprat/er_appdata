@@ -1,0 +1,12 @@
+[
+  {
+    "question": "geo question 1?",
+    "options": ["Boy", "City", "Mumbai", "Team"],
+    "answer_index": 2
+  },
+  {
+    "question": "geo question 2?",
+    "options": ["Childs", "Children", "Childrens", "Childes"],
+    "answer_index": 1
+  }
+]

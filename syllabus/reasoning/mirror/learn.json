@@ -1,0 +1,13 @@
+{
+  "chapter_name": "mirror: Zero to Hero", 
+  "concepts": [
+    {
+      "title": "mirror: Types of Noun",
+      "video_url": "https://youtube.com/...",
+      "test_file_url": "https://raw.githubusercontent.com/HackerGprat/er_appdata/master/syllabus/reasoning/mirror/test_1.json", 
+      "extra_links": [
+         { "title": "PDF Download", "url": "https://drive..." }
+      ]
+    }
+  ]
+}
