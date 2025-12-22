@@ -1,12 +1,42 @@
-[
-  {
-    "question": "Which noun is a Proper Noun?",
-    "options": ["Boy", "City", "Mumbai", "Team"],
-    "answer_index": 2
-  },
-  {
-    "question": "Plural of 'Child' is?",
-    "options": ["Childs", "Children", "Childrens", "Childes"],
-    "answer_index": 1
-  }
-]
+{
+  "test_title": "Noun Practice Set 1",
+  "total_questions": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the proper noun from the following.",
+      "options": [
+        "City",
+        "Mumbai",
+        "Country",
+        "Village"
+      ],
+      "correct_index": 1,
+      "explanation": "'Mumbai' is the name of a specific city, so it is a Proper Noun."
+    },
+    {
+      "id": 2,
+      "question": "Which of these is a Collective Noun?",
+      "options": [
+        "Team",
+        "Player",
+        "Ball",
+        "Stadium"
+      ],
+      "correct_index": 0,
+      "explanation": "'Team' refers to a group of players."
+    },
+    {
+      "id": 3,
+      "question": "What is the plural of 'Child'?",
+      "options": [
+        "Childs",
+        "Childrens",
+        "Children",
+        "Childes"
+      ],
+      "correct_index": 2,
+      "explanation": "The plural of Child is Children (Irregular Noun)."
+    }
+  ]
+}
